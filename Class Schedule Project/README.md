@@ -1,0 +1,1 @@
+This project is a mock class scheduling portal for teachers to add and search courses. It also views all the admin in the Database. This was built using a previous school's database that is no longer supported.
